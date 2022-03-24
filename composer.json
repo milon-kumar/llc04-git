@@ -1,0 +1,15 @@
+{
+    "name": "jk/llc04-github",
+    "autoload": {
+        "psr-4": {
+            "Jk\\Llc04Github\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jugol Kumar",
+            "email": "jk23717933@gmail.com"
+        }
+    ],
+    "require": {}
+}
